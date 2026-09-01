@@ -1,1 +1,1 @@
-confirm("Cross Domain Script Include");
+prompt("Cross Domain Script Include");
