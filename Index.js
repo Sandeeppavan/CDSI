@@ -1,0 +1,1 @@
+confirm("Cross Domain Script Include");
